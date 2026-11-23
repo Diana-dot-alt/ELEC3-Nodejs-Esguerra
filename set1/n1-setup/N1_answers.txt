@@ -1,0 +1,25 @@
+N1 - Project Setup and Package Management
+
+1. name
+It identifies the name of the project.
+
+2. version
+It shows the current version of the project.
+
+3. description
+It gives a short explanation of the project.
+
+4. main
+It identifies the main file of the project.
+
+5. scripts
+It contains commands that can be run using npm.
+
+6. dependencies
+These are packages needed by the project to work.
+
+7. devDependencies
+These are packages used during development.
+
+8. node_modules
+This folder contains the installed packages. It should not be included when sharing the project because it can be recreated by running npm install. It also makes the project folder larger.
