@@ -2,21 +2,23 @@
 
 **Student Name:** Diana C. Esguerra  
 **Section:** IV - BSIT - B  
-**Course:** ELEC3 - Node.js
+**Course:** ELEC3 - Node.js Programming
 
 ## Set 1 Activities
 
 | Activity | Description | Folder | Run Command |
 |---|---|---|---|
-| N1 - Project Setup | Sets up a Node.js project using npm and dependencies. | N1 | `cd set1/n1-setup` then `npm start` |
-| N2 - Modular Calculator | Uses custom and built-in modules to perform calculations. | N2 | `node set1/n2-calculator/index.js add 12 8` |
-| N3 - File Manager | Uses fs and path modules to manage text files. | N3 | To be added after completing N3. |
+| N1 - Project Setup | Sets up a Node.js project using npm and dependencies. | [N1](set1/n1-setup/) | `npm start` |
+| N2 - Modular Calculator | Uses custom and built-in modules to perform calculations. | [N2](set1/n2-calculator/) | `node set1/n2-calculator/index.js add 12 8` |
+| N3 - File Manager | Uses fs and path modules to manage text files. | [N3](set1/n3-file-manager/) | To be added after completing N3. |
 
 ## Set 1 Screenshots
 
 ### N1 - Project Setup
+![N1 Screenshot](set1/n1-setup/screenshots/N1_NPM_Start.png)
 
 ### N2 - Modular Calculator
+![N2 Screenshot](set1/n2-calculator/screenshots/N2_All_Operations.png)
 
 ## Set 2 Activities
 
