@@ -2,7 +2,7 @@
 
 **Student Name:** Diana C. Esguerra  
 **Section:** IV - BSIT - B  
-**Course:** ELEC3 - Node.js Programming
+**Course:** LN01_ELEC3 	 Elective 3 (Special Topics on Web and Mobile 1) 
 
 ## Set 1 Activities
 
