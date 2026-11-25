@@ -100,3 +100,4 @@ switch (command) {
         console.log("delete <filename>");
         console.log("list");
 }
+
